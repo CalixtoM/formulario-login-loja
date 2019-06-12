@@ -1,0 +1,55 @@
+#topo{
+	border-width: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: lightblue;	
+	border-radius: 5px;
+}
+
+img{
+	width: 100px;
+}
+
+#lateral{
+	width: 350px;
+	position: relative;
+    border-width:2px;
+    float: left;
+
+
+}
+#corpo1{
+		position: relative;	
+		border-width: 2px;
+		float: left;
+		width: 550px;
+		height: 500px;
+}
+
+#corpo2{
+	position: relative;
+}
+
+#inp{
+	width: 250px;
+}
+
+select{
+	width: 250px;
+}
+
+#kkkk{
+	height: 549px;
+}
+
+body{
+	background-color: ;
+}
+
+h1,h2{
+	font-family: arial;
+}
+
+p{
+	font-family: arial;
+}
